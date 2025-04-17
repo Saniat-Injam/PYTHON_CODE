@@ -1,11 +1,17 @@
-# Write a simple python program that can calculate area of a triangle
+"""Write a simple python program that can calculate the area of a triangle. If the result comes in 
+decimal then round it till 2 decimal places. 
 
-base = 12.0004477454
-height = 12.15444564
-area = 1/2 * base * height
-print(area)
-area = round(area, 2)
+"""
+
+base = 12.0123235
+height = 12.01252455
+area = 1/2 * (base * height)
+
 print("The calculated area is: ", area)
+
+area = round(area, 2)
+
+print("The calculated area after rounding is:", area)
 
 
 

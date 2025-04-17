@@ -1,8 +1,3 @@
-"""
-Variables are like containers that can hold any data. You can use them to store numeric data,
-text data etc. Variables are called variables because the value in it can vary.
-"""
-
 # Debugging is a process of identifying and fixing problems (also known as BUGS) in code.
 
 """
